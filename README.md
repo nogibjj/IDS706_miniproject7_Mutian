@@ -1,7 +1,10 @@
-## Mini Project 5 [![CI](https://github.com/nogibjj/IDS706_miniproject5_Mutian/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_miniproject5_Mutian/actions/workflows/cicd.yml)
+## Mini Project 7 
 
 ## Overview
-Python script to show the basic operations on database 
+
+Package a Python script with setuptools or a similar tool
+Include a user guide on how to install and use the tool
+Include communication with an external or internal database (NoSQL, SQL, etc)
 
 ## Database Functions
 ## Connect & Create
