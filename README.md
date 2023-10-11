@@ -1,4 +1,5 @@
 ## Mini Project 7 
+[![CI](https://github.com/nogibjj/IDS706_miniproject7_Mutian/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_miniproject7_Mutian/actions/workflows/cicd.yml)
 
 ## Overview
 
