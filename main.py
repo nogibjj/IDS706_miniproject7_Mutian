@@ -1,8 +1,6 @@
 from mylib.dbfunc import connectDB, createDB, insertDB, readDB, updateDB, deleteDB
 import os
 import click
-
-
 @click.command()
 @click.argument("db")
 def main(db):
