@@ -55,7 +55,9 @@ Include communication with an external or internal database (NoSQL, SQL, etc)
 
 
 ## Test
-<img width="1159" alt="image" src="https://github.com/nogibjj/IDS706_miniproject5_Mutian/assets/108935314/b620bd3c-befe-478d-85ac-ff909f3fef09">
+
+<img width="1043" alt="image" src="https://github.com/nogibjj/IDS706_miniproject7_Mutian/assets/108935314/4f401289-e7c6-4db7-a6a1-209cf0fabf0b">
+
 
 ## Run
 
